@@ -1,0 +1,15 @@
+
+static power = voltage * current 
+
+  1.8.3 the leakage current is same as static current. We can use the above formula to 
+    solve for current and we need to use a combination of Dynamic P and static P to find the 
+    10% decrease in power. 
+
+
+1.9.1 Find the speed up of running the program on multiple processors the  (execution time old) / (execution new)
+
+8 to - 8 
+
+0000_1000
+1111_0111 + 1 
+1111_1011
